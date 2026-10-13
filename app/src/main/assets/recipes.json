@@ -1,0 +1,1239 @@
+[
+  {
+    "id": 0,
+    "name": "Menemen",
+    "category": "Kahvaltı",
+    "unit": "1 porsiyon",
+    "kcal": 280,
+    "protein": 16,
+    "carbs": 12,
+    "fat": 18,
+    "fiber": 3,
+    "ingredients": "Yumurta, domates, yeşil biber, zeytinyağı",
+    "allergens": "Yumurta",
+    "tags": [
+      "vejetaryen"
+    ],
+    "meal": "Kahvaltı",
+    "grams": 250
+  },
+  {
+    "id": 1,
+    "name": "Peynirli omlet",
+    "category": "Kahvaltı",
+    "unit": "2 yumurta",
+    "kcal": 340,
+    "protein": 22,
+    "carbs": 4,
+    "fat": 26,
+    "fiber": 1,
+    "ingredients": "Yumurta, beyaz peynir, maydanoz, tereyağı",
+    "allergens": "Yumurta, süt",
+    "tags": [
+      "vejetaryen",
+      "protein",
+      "glutensiz"
+    ],
+    "meal": "Kahvaltı",
+    "grams": 120
+  },
+  {
+    "id": 2,
+    "name": "Sucuklu yumurta",
+    "category": "Kahvaltı",
+    "unit": "1 porsiyon",
+    "kcal": 420,
+    "protein": 24,
+    "carbs": 3,
+    "fat": 35,
+    "fiber": 0,
+    "ingredients": "Yumurta, dana sucuğu",
+    "allergens": "Yumurta",
+    "tags": [
+      "glutensiz",
+      "protein"
+    ],
+    "meal": "Kahvaltı",
+    "grams": 250
+  },
+  {
+    "id": 3,
+    "name": "Pişi",
+    "category": "Kahvaltı",
+    "unit": "2 adet",
+    "kcal": 390,
+    "protein": 9,
+    "carbs": 48,
+    "fat": 18,
+    "fiber": 2,
+    "ingredients": "Un, yoğurt, maya, sıvı yağ",
+    "allergens": "Gluten, süt",
+    "tags": [
+      "vejetaryen"
+    ],
+    "meal": "Kahvaltı",
+    "grams": 120
+  },
+  {
+    "id": 4,
+    "name": "Peynirli gözleme",
+    "category": "Kahvaltı",
+    "unit": "1 adet",
+    "kcal": 430,
+    "protein": 16,
+    "carbs": 51,
+    "fat": 18,
+    "fiber": 3,
+    "ingredients": "Yufka, beyaz peynir, maydanoz",
+    "allergens": "Gluten, süt",
+    "tags": [
+      "vejetaryen"
+    ],
+    "meal": "Kahvaltı",
+    "grams": 180
+  },
+  {
+    "id": 5,
+    "name": "Mercimek çorbası",
+    "category": "Çorba",
+    "unit": "1 kase",
+    "kcal": 165,
+    "protein": 9,
+    "carbs": 25,
+    "fat": 3,
+    "fiber": 7,
+    "ingredients": "Kırmızı mercimek, soğan, havuç, salça",
+    "allergens": "—",
+    "tags": [
+      "vegan",
+      "glutensiz",
+      "protein"
+    ],
+    "meal": "Öğle",
+    "grams": 250
+  },
+  {
+    "id": 6,
+    "name": "Ezogelin çorbası",
+    "category": "Çorba",
+    "unit": "1 kase",
+    "kcal": 180,
+    "protein": 8,
+    "carbs": 29,
+    "fat": 4,
+    "fiber": 6,
+    "ingredients": "Kırmızı mercimek, bulgur, pirinç, nane",
+    "allergens": "Gluten",
+    "tags": [
+      "vegan"
+    ],
+    "meal": "Öğle",
+    "grams": 250
+  },
+  {
+    "id": 7,
+    "name": "Yayla çorbası",
+    "category": "Çorba",
+    "unit": "1 kase",
+    "kcal": 190,
+    "protein": 8,
+    "carbs": 24,
+    "fat": 7,
+    "fiber": 2,
+    "ingredients": "Yoğurt, pirinç, yumurta, nane",
+    "allergens": "Süt, yumurta",
+    "tags": [
+      "vejetaryen",
+      "glutensiz"
+    ],
+    "meal": "Öğle",
+    "grams": 250
+  },
+  {
+    "id": 8,
+    "name": "Tarhana çorbası",
+    "category": "Çorba",
+    "unit": "1 kase",
+    "kcal": 155,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 4,
+    "fiber": 3,
+    "ingredients": "Tarhana, domates, yoğurt, tereyağı",
+    "allergens": "Gluten, süt",
+    "tags": [
+      "vejetaryen"
+    ],
+    "meal": "Öğle",
+    "grams": 250
+  },
+  {
+    "id": 9,
+    "name": "Tavuk suyu çorbası",
+    "category": "Çorba",
+    "unit": "1 kase",
+    "kcal": 145,
+    "protein": 13,
+    "carbs": 15,
+    "fat": 4,
+    "fiber": 1,
+    "ingredients": "Tavuk, şehriye, havuç, maydanoz",
+    "allergens": "Gluten",
+    "tags": [
+      "protein"
+    ],
+    "meal": "Öğle",
+    "grams": 250
+  },
+  {
+    "id": 10,
+    "name": "Karnıyarık",
+    "category": "Ana yemek",
+    "unit": "1 adet",
+    "kcal": 330,
+    "protein": 20,
+    "carbs": 18,
+    "fat": 20,
+    "fiber": 5,
+    "ingredients": "Patlıcan, dana kıyma, domates, soğan",
+    "allergens": "—",
+    "tags": [
+      "glutensiz",
+      "protein"
+    ],
+    "meal": "Akşam",
+    "grams": 180
+  },
+  {
+    "id": 11,
+    "name": "İmam bayıldı",
+    "category": "Ana yemek",
+    "unit": "1 adet",
+    "kcal": 260,
+    "protein": 5,
+    "carbs": 22,
+    "fat": 17,
+    "fiber": 7,
+    "ingredients": "Patlıcan, domates, soğan, zeytinyağı",
+    "allergens": "—",
+    "tags": [
+      "vegan",
+      "glutensiz"
+    ],
+    "meal": "Akşam",
+    "grams": 180
+  },
+  {
+    "id": 12,
+    "name": "Tavuk sote",
+    "category": "Ana yemek",
+    "unit": "1 porsiyon",
+    "kcal": 310,
+    "protein": 35,
+    "carbs": 12,
+    "fat": 13,
+    "fiber": 3,
+    "ingredients": "Tavuk göğsü, biber, domates, soğan",
+    "allergens": "—",
+    "tags": [
+      "glutensiz",
+      "protein"
+    ],
+    "meal": "Akşam",
+    "grams": 250
+  },
+  {
+    "id": 13,
+    "name": "Etli kuru fasulye",
+    "category": "Ana yemek",
+    "unit": "1 porsiyon",
+    "kcal": 390,
+    "protein": 25,
+    "carbs": 43,
+    "fat": 13,
+    "fiber": 12,
+    "ingredients": "Kuru fasulye, dana eti, soğan, salça",
+    "allergens": "—",
+    "tags": [
+      "glutensiz",
+      "protein"
+    ],
+    "meal": "Akşam",
+    "grams": 250
+  },
+  {
+    "id": 14,
+    "name": "Nohut yemeği",
+    "category": "Ana yemek",
+    "unit": "1 porsiyon",
+    "kcal": 320,
+    "protein": 15,
+    "carbs": 48,
+    "fat": 8,
+    "fiber": 11,
+    "ingredients": "Nohut, soğan, domates, zeytinyağı",
+    "allergens": "—",
+    "tags": [
+      "vegan",
+      "glutensiz",
+      "protein"
+    ],
+    "meal": "Akşam",
+    "grams": 250
+  },
+  {
+    "id": 15,
+    "name": "Zeytinyağlı taze fasulye",
+    "category": "Ana yemek",
+    "unit": "1 porsiyon",
+    "kcal": 210,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 10,
+    "fiber": 8,
+    "ingredients": "Taze fasulye, domates, soğan, zeytinyağı",
+    "allergens": "—",
+    "tags": [
+      "vegan",
+      "glutensiz"
+    ],
+    "meal": "Akşam",
+    "grams": 250
+  },
+  {
+    "id": 16,
+    "name": "Köfte",
+    "category": "Ana yemek",
+    "unit": "5 adet",
+    "kcal": 360,
+    "protein": 27,
+    "carbs": 14,
+    "fat": 22,
+    "fiber": 2,
+    "ingredients": "Dana kıyma, soğan, ekmek içi, baharat",
+    "allergens": "Gluten",
+    "tags": [
+      "protein"
+    ],
+    "meal": "Akşam",
+    "grams": 150
+  },
+  {
+    "id": 17,
+    "name": "Izgara tavuk",
+    "category": "Ana yemek",
+    "unit": "1 porsiyon",
+    "kcal": 285,
+    "protein": 42,
+    "carbs": 1,
+    "fat": 12,
+    "fiber": 0,
+    "ingredients": "Tavuk göğsü, zeytinyağı, baharat",
+    "allergens": "—",
+    "tags": [
+      "glutensiz",
+      "protein"
+    ],
+    "meal": "Akşam",
+    "grams": 250
+  },
+  {
+    "id": 18,
+    "name": "Izgara somon",
+    "category": "Ana yemek",
+    "unit": "1 fileto",
+    "kcal": 370,
+    "protein": 36,
+    "carbs": 0,
+    "fat": 24,
+    "fiber": 0,
+    "ingredients": "Somon, limon, zeytinyağı, dereotu",
+    "allergens": "Balık",
+    "tags": [
+      "glutensiz",
+      "protein"
+    ],
+    "meal": "Akşam",
+    "grams": 150
+  },
+  {
+    "id": 19,
+    "name": "Etli yaprak sarma",
+    "category": "Ana yemek",
+    "unit": "5 adet",
+    "kcal": 310,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 13,
+    "fiber": 4,
+    "ingredients": "Asma yaprağı, pirinç, dana kıyma, soğan",
+    "allergens": "—",
+    "tags": [
+      "glutensiz",
+      "protein"
+    ],
+    "meal": "Akşam",
+    "grams": 150
+  },
+  {
+    "id": 20,
+    "name": "Zeytinyağlı yaprak sarma",
+    "category": "Ana yemek",
+    "unit": "5 adet",
+    "kcal": 250,
+    "protein": 5,
+    "carbs": 38,
+    "fat": 8,
+    "fiber": 5,
+    "ingredients": "Asma yaprağı, pirinç, soğan, zeytinyağı",
+    "allergens": "—",
+    "tags": [
+      "vegan",
+      "glutensiz"
+    ],
+    "meal": "Akşam",
+    "grams": 150
+  },
+  {
+    "id": 21,
+    "name": "Biber dolması",
+    "category": "Ana yemek",
+    "unit": "2 adet",
+    "kcal": 340,
+    "protein": 9,
+    "carbs": 49,
+    "fat": 12,
+    "fiber": 6,
+    "ingredients": "Dolmalık biber, pirinç, soğan, domates",
+    "allergens": "—",
+    "tags": [
+      "vegan",
+      "glutensiz"
+    ],
+    "meal": "Akşam",
+    "grams": 120
+  },
+  {
+    "id": 22,
+    "name": "Kabak dolması",
+    "category": "Ana yemek",
+    "unit": "2 adet",
+    "kcal": 290,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 13,
+    "fiber": 5,
+    "ingredients": "Kabak, pirinç, dana kıyma, yoğurt",
+    "allergens": "Süt",
+    "tags": [
+      "glutensiz",
+      "protein"
+    ],
+    "meal": "Akşam",
+    "grams": 120
+  },
+  {
+    "id": 23,
+    "name": "Patlıcan musakka",
+    "category": "Ana yemek",
+    "unit": "1 porsiyon",
+    "kcal": 350,
+    "protein": 21,
+    "carbs": 19,
+    "fat": 22,
+    "fiber": 6,
+    "ingredients": "Patlıcan, dana kıyma, domates, soğan",
+    "allergens": "—",
+    "tags": [
+      "glutensiz",
+      "protein"
+    ],
+    "meal": "Akşam",
+    "grams": 250
+  },
+  {
+    "id": 24,
+    "name": "Tavuk şiş",
+    "category": "Ana yemek",
+    "unit": "1 porsiyon",
+    "kcal": 300,
+    "protein": 39,
+    "carbs": 7,
+    "fat": 12,
+    "fiber": 1,
+    "ingredients": "Tavuk, yoğurt, biber, baharat",
+    "allergens": "Süt",
+    "tags": [
+      "protein",
+      "glutensiz"
+    ],
+    "meal": "Akşam",
+    "grams": 250
+  },
+  {
+    "id": 25,
+    "name": "Kuzu şiş",
+    "category": "Ana yemek",
+    "unit": "1 porsiyon",
+    "kcal": 410,
+    "protein": 34,
+    "carbs": 4,
+    "fat": 29,
+    "fiber": 0,
+    "ingredients": "Kuzu eti, soğan, biber, baharat",
+    "allergens": "—",
+    "tags": [
+      "protein",
+      "glutensiz"
+    ],
+    "meal": "Akşam",
+    "grams": 250
+  },
+  {
+    "id": 26,
+    "name": "Ciğer tava",
+    "category": "Ana yemek",
+    "unit": "1 porsiyon",
+    "kcal": 390,
+    "protein": 29,
+    "carbs": 27,
+    "fat": 19,
+    "fiber": 3,
+    "ingredients": "Dana ciğeri, un, soğan, maydanoz",
+    "allergens": "Gluten",
+    "tags": [
+      "protein"
+    ],
+    "meal": "Akşam",
+    "grams": 250
+  },
+  {
+    "id": 27,
+    "name": "Hamsi tava",
+    "category": "Ana yemek",
+    "unit": "1 porsiyon",
+    "kcal": 430,
+    "protein": 31,
+    "carbs": 28,
+    "fat": 21,
+    "fiber": 2,
+    "ingredients": "Hamsi, mısır unu, limon",
+    "allergens": "Balık, mısır",
+    "tags": [
+      "glutensiz",
+      "protein"
+    ],
+    "meal": "Akşam",
+    "grams": 250
+  },
+  {
+    "id": 28,
+    "name": "Pirinç pilavı",
+    "category": "Yan yemek",
+    "unit": "1 porsiyon",
+    "kcal": 280,
+    "protein": 5,
+    "carbs": 48,
+    "fat": 8,
+    "fiber": 1,
+    "ingredients": "Pirinç, tereyağı, şehriye",
+    "allergens": "Süt, gluten",
+    "tags": [
+      "vejetaryen",
+      "glutensiz"
+    ],
+    "meal": "Akşam",
+    "grams": 250
+  },
+  {
+    "id": 29,
+    "name": "Bulgur pilavı",
+    "category": "Yan yemek",
+    "unit": "1 porsiyon",
+    "kcal": 245,
+    "protein": 7,
+    "carbs": 43,
+    "fat": 6,
+    "fiber": 8,
+    "ingredients": "Bulgur, domates, biber, soğan",
+    "allergens": "Gluten",
+    "tags": [
+      "vegan"
+    ],
+    "meal": "Akşam",
+    "grams": 250
+  },
+  {
+    "id": 30,
+    "name": "Kısır",
+    "category": "Yan yemek",
+    "unit": "1 kase",
+    "kcal": 260,
+    "protein": 7,
+    "carbs": 42,
+    "fat": 8,
+    "fiber": 8,
+    "ingredients": "Bulgur, domates salçası, maydanoz, nar ekşisi",
+    "allergens": "Gluten",
+    "tags": [
+      "vegan"
+    ],
+    "meal": "Öğle",
+    "grams": 250
+  },
+  {
+    "id": 31,
+    "name": "Çoban salata",
+    "category": "Yan yemek",
+    "unit": "1 kase",
+    "kcal": 110,
+    "protein": 3,
+    "carbs": 14,
+    "fat": 5,
+    "fiber": 4,
+    "ingredients": "Domates, salatalık, biber, soğan, zeytinyağı",
+    "allergens": "—",
+    "tags": [
+      "vegan",
+      "glutensiz"
+    ],
+    "meal": "Öğle",
+    "grams": 250
+  },
+  {
+    "id": 32,
+    "name": "Haydari",
+    "category": "Yan yemek",
+    "unit": "1 kase",
+    "kcal": 180,
+    "protein": 8,
+    "carbs": 8,
+    "fat": 13,
+    "fiber": 1,
+    "ingredients": "Süzme yoğurt, sarımsak, dereotu, zeytinyağı",
+    "allergens": "Süt",
+    "tags": [
+      "vejetaryen",
+      "glutensiz"
+    ],
+    "meal": "Ara öğün",
+    "grams": 250
+  },
+  {
+    "id": 33,
+    "name": "Cacık",
+    "category": "Yan yemek",
+    "unit": "1 kase",
+    "kcal": 95,
+    "protein": 5,
+    "carbs": 9,
+    "fat": 4,
+    "fiber": 1,
+    "ingredients": "Yoğurt, salatalık, nane, sarımsak",
+    "allergens": "Süt",
+    "tags": [
+      "vejetaryen",
+      "glutensiz"
+    ],
+    "meal": "Öğle",
+    "grams": 250
+  },
+  {
+    "id": 34,
+    "name": "Fırın patates",
+    "category": "Yan yemek",
+    "unit": "1 orta boy",
+    "kcal": 220,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 5,
+    "fiber": 5,
+    "ingredients": "Patates, zeytinyağı, kekik",
+    "allergens": "—",
+    "tags": [
+      "vegan",
+      "glutensiz"
+    ],
+    "meal": "Akşam",
+    "grams": 180
+  },
+  {
+    "id": 35,
+    "name": "Lahmacun",
+    "category": "Hamur işi",
+    "unit": "1 adet",
+    "kcal": 320,
+    "protein": 16,
+    "carbs": 38,
+    "fat": 12,
+    "fiber": 3,
+    "ingredients": "İnce hamur, dana kıyma, domates, maydanoz",
+    "allergens": "Gluten",
+    "tags": [
+      "protein"
+    ],
+    "meal": "Öğle",
+    "grams": 180
+  },
+  {
+    "id": 36,
+    "name": "Pide (kaşarlı)",
+    "category": "Hamur işi",
+    "unit": "1 porsiyon",
+    "kcal": 460,
+    "protein": 19,
+    "carbs": 54,
+    "fat": 18,
+    "fiber": 2,
+    "ingredients": "Pide hamuru, kaşar peyniri",
+    "allergens": "Gluten, süt",
+    "tags": [
+      "vejetaryen"
+    ],
+    "meal": "Öğle",
+    "grams": 250
+  },
+  {
+    "id": 37,
+    "name": "Pide (kıymalı)",
+    "category": "Hamur işi",
+    "unit": "1 porsiyon",
+    "kcal": 490,
+    "protein": 22,
+    "carbs": 52,
+    "fat": 22,
+    "fiber": 3,
+    "ingredients": "Pide hamuru, dana kıyma, domates, biber",
+    "allergens": "Gluten",
+    "tags": [
+      "protein"
+    ],
+    "meal": "Öğle",
+    "grams": 250
+  },
+  {
+    "id": 38,
+    "name": "Su böreği",
+    "category": "Hamur işi",
+    "unit": "1 dilim",
+    "kcal": 380,
+    "protein": 16,
+    "carbs": 38,
+    "fat": 18,
+    "fiber": 2,
+    "ingredients": "Yufka, beyaz peynir, yumurta, tereyağı",
+    "allergens": "Gluten, süt, yumurta",
+    "tags": [
+      "vejetaryen"
+    ],
+    "meal": "Öğle",
+    "grams": 100
+  },
+  {
+    "id": 39,
+    "name": "Mantı",
+    "category": "Hamur işi",
+    "unit": "1 porsiyon",
+    "kcal": 430,
+    "protein": 21,
+    "carbs": 56,
+    "fat": 14,
+    "fiber": 3,
+    "ingredients": "Mantı hamuru, dana kıyma, yoğurt, sarımsak",
+    "allergens": "Gluten, süt",
+    "tags": [
+      "protein"
+    ],
+    "meal": "Akşam",
+    "grams": 250
+  },
+  {
+    "id": 40,
+    "name": "Gözleme (ıspanaklı)",
+    "category": "Hamur işi",
+    "unit": "1 adet",
+    "kcal": 370,
+    "protein": 12,
+    "carbs": 49,
+    "fat": 14,
+    "fiber": 5,
+    "ingredients": "Yufka, ıspanak, soğan, peynir",
+    "allergens": "Gluten, süt",
+    "tags": [
+      "vejetaryen"
+    ],
+    "meal": "Öğle",
+    "grams": 180
+  },
+  {
+    "id": 41,
+    "name": "Spagetti domates soslu",
+    "category": "Hamur işi",
+    "unit": "1 porsiyon",
+    "kcal": 390,
+    "protein": 12,
+    "carbs": 66,
+    "fat": 9,
+    "fiber": 5,
+    "ingredients": "Spagetti, domates, sarımsak, zeytinyağı",
+    "allergens": "Gluten",
+    "tags": [
+      "vegan"
+    ],
+    "meal": "Öğle",
+    "grams": 250
+  },
+  {
+    "id": 42,
+    "name": "Fırın makarna",
+    "category": "Hamur işi",
+    "unit": "1 porsiyon",
+    "kcal": 450,
+    "protein": 18,
+    "carbs": 52,
+    "fat": 19,
+    "fiber": 3,
+    "ingredients": "Makarna, süt, kaşar peyniri, yumurta",
+    "allergens": "Gluten, süt, yumurta",
+    "tags": [
+      "vejetaryen"
+    ],
+    "meal": "Akşam",
+    "grams": 250
+  },
+  {
+    "id": 43,
+    "name": "Sütlaç",
+    "category": "Tatlı",
+    "unit": "1 kase",
+    "kcal": 220,
+    "protein": 7,
+    "carbs": 35,
+    "fat": 6,
+    "fiber": 0,
+    "ingredients": "Süt, pirinç, şeker, vanilya",
+    "allergens": "Süt",
+    "tags": [
+      "vejetaryen",
+      "glutensiz"
+    ],
+    "meal": "Ara öğün",
+    "grams": 250
+  },
+  {
+    "id": 44,
+    "name": "Kazandibi",
+    "category": "Tatlı",
+    "unit": "1 dilim",
+    "kcal": 260,
+    "protein": 7,
+    "carbs": 39,
+    "fat": 8,
+    "fiber": 0,
+    "ingredients": "Süt, şeker, pirinç unu, nişasta",
+    "allergens": "Süt",
+    "tags": [
+      "vejetaryen",
+      "glutensiz"
+    ],
+    "meal": "Ara öğün",
+    "grams": 100
+  },
+  {
+    "id": 45,
+    "name": "Baklava",
+    "category": "Tatlı",
+    "unit": "2 dilim",
+    "kcal": 330,
+    "protein": 6,
+    "carbs": 42,
+    "fat": 16,
+    "fiber": 2,
+    "ingredients": "Yufka, ceviz, şeker şerbeti, tereyağı",
+    "allergens": "Gluten, süt, ceviz",
+    "tags": [
+      "vejetaryen"
+    ],
+    "meal": "Ara öğün",
+    "grams": 80
+  },
+  {
+    "id": 46,
+    "name": "Revani",
+    "category": "Tatlı",
+    "unit": "1 dilim",
+    "kcal": 290,
+    "protein": 6,
+    "carbs": 48,
+    "fat": 8,
+    "fiber": 1,
+    "ingredients": "İrmik, yoğurt, yumurta, şerbet",
+    "allergens": "Gluten, süt, yumurta",
+    "tags": [
+      "vejetaryen"
+    ],
+    "meal": "Ara öğün",
+    "grams": 100
+  },
+  {
+    "id": 47,
+    "name": "Aşure",
+    "category": "Tatlı",
+    "unit": "1 kase",
+    "kcal": 280,
+    "protein": 8,
+    "carbs": 53,
+    "fat": 5,
+    "fiber": 7,
+    "ingredients": "Buğday, nohut, kuru fasulye, kuru meyve",
+    "allergens": "Gluten",
+    "tags": [
+      "vegan"
+    ],
+    "meal": "Ara öğün",
+    "grams": 250
+  },
+  {
+    "id": 48,
+    "name": "Kabak tatlısı",
+    "category": "Tatlı",
+    "unit": "1 porsiyon",
+    "kcal": 210,
+    "protein": 3,
+    "carbs": 48,
+    "fat": 2,
+    "fiber": 4,
+    "ingredients": "Balkabağı, şeker, ceviz",
+    "allergens": "Ceviz",
+    "tags": [
+      "vegan",
+      "glutensiz"
+    ],
+    "meal": "Ara öğün",
+    "grams": 250
+  },
+  {
+    "id": 49,
+    "name": "Tavuklu nohutlu salata",
+    "category": "Yan yemek",
+    "unit": "1 kase",
+    "kcal": 330,
+    "protein": 32,
+    "carbs": 27,
+    "fat": 11,
+    "fiber": 8,
+    "ingredients": "Tavuk, nohut, marul, domates, limon",
+    "allergens": "—",
+    "tags": [
+      "protein",
+      "glutensiz"
+    ],
+    "meal": "Öğle",
+    "grams": 250
+  },
+  {
+    "id": 50,
+    "name": "Su",
+    "category": "İçecek",
+    "unit": "1 bardak",
+    "kcal": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "ingredients": "İçme suyu",
+    "allergens": "—",
+    "tags": [
+      "vegan",
+      "glutensiz"
+    ],
+    "meal": "Ara öğün",
+    "grams": 250
+  },
+  {
+    "id": 51,
+    "name": "Maden suyu",
+    "category": "İçecek",
+    "unit": "1 şişe",
+    "kcal": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "ingredients": "Doğal mineralli su",
+    "allergens": "—",
+    "tags": [
+      "vegan",
+      "glutensiz"
+    ],
+    "meal": "Ara öğün",
+    "grams": 200
+  },
+  {
+    "id": 52,
+    "name": "Ayran",
+    "category": "İçecek",
+    "unit": "1 bardak",
+    "kcal": 75,
+    "protein": 4,
+    "carbs": 6,
+    "fat": 4,
+    "fiber": 0,
+    "ingredients": "Yoğurt, su, tuz",
+    "allergens": "Süt",
+    "tags": [
+      "vejetaryen",
+      "glutensiz"
+    ],
+    "meal": "Ara öğün",
+    "grams": 250
+  },
+  {
+    "id": 53,
+    "name": "Türk çayı (şekersiz)",
+    "category": "İçecek",
+    "unit": "1 ince belli bardak",
+    "kcal": 2,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "ingredients": "Demlenmiş siyah çay",
+    "allergens": "—",
+    "tags": [
+      "vegan",
+      "glutensiz"
+    ],
+    "meal": "Ara öğün",
+    "grams": 100
+  },
+  {
+    "id": 54,
+    "name": "Türk kahvesi (şekersiz)",
+    "category": "İçecek",
+    "unit": "1 fincan",
+    "kcal": 5,
+    "protein": 0,
+    "carbs": 1,
+    "fat": 0,
+    "fiber": 0,
+    "ingredients": "Türk kahvesi, su",
+    "allergens": "—",
+    "tags": [
+      "vegan",
+      "glutensiz"
+    ],
+    "meal": "Ara öğün",
+    "grams": 65
+  },
+  {
+    "id": 55,
+    "name": "Filtre kahve (sade)",
+    "category": "İçecek",
+    "unit": "1 kupa",
+    "kcal": 3,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0,
+    "fiber": 0,
+    "ingredients": "Filtre kahve, su",
+    "allergens": "—",
+    "tags": [
+      "vegan",
+      "glutensiz"
+    ],
+    "meal": "Ara öğün",
+    "grams": 240
+  },
+  {
+    "id": 56,
+    "name": "Sütlü kahve",
+    "category": "İçecek",
+    "unit": "1 kupa",
+    "kcal": 105,
+    "protein": 6,
+    "carbs": 9,
+    "fat": 5,
+    "fiber": 0,
+    "ingredients": "Süt, kahve",
+    "allergens": "Süt",
+    "tags": [
+      "vejetaryen",
+      "glutensiz"
+    ],
+    "meal": "Ara öğün",
+    "grams": 240
+  },
+  {
+    "id": 57,
+    "name": "Latte",
+    "category": "İçecek",
+    "unit": "1 kupa",
+    "kcal": 145,
+    "protein": 8,
+    "carbs": 14,
+    "fat": 6,
+    "fiber": 0,
+    "ingredients": "Espresso, süt",
+    "allergens": "Süt",
+    "tags": [
+      "vejetaryen",
+      "glutensiz"
+    ],
+    "meal": "Ara öğün",
+    "grams": 300
+  },
+  {
+    "id": 58,
+    "name": "Tam yağlı süt",
+    "category": "İçecek",
+    "unit": "1 bardak",
+    "kcal": 124,
+    "protein": 7,
+    "carbs": 10,
+    "fat": 7,
+    "fiber": 0,
+    "ingredients": "İnek sütü",
+    "allergens": "Süt",
+    "tags": [
+      "vejetaryen",
+      "glutensiz",
+      "protein"
+    ],
+    "meal": "Ara öğün",
+    "grams": 200
+  },
+  {
+    "id": 59,
+    "name": "Kefir",
+    "category": "İçecek",
+    "unit": "1 bardak",
+    "kcal": 120,
+    "protein": 7,
+    "carbs": 9,
+    "fat": 6,
+    "fiber": 0,
+    "ingredients": "Kefir",
+    "allergens": "Süt",
+    "tags": [
+      "vejetaryen",
+      "glutensiz",
+      "protein"
+    ],
+    "meal": "Ara öğün",
+    "grams": 200
+  },
+  {
+    "id": 60,
+    "name": "Portakal suyu",
+    "category": "İçecek",
+    "unit": "1 bardak",
+    "kcal": 90,
+    "protein": 2,
+    "carbs": 21,
+    "fat": 0,
+    "fiber": 0,
+    "ingredients": "Taze sıkılmış portakal suyu",
+    "allergens": "—",
+    "tags": [
+      "vegan",
+      "glutensiz"
+    ],
+    "meal": "Ara öğün",
+    "grams": 200
+  },
+  {
+    "id": 61,
+    "name": "Limonata",
+    "category": "İçecek",
+    "unit": "1 bardak",
+    "kcal": 100,
+    "protein": 0,
+    "carbs": 25,
+    "fat": 0,
+    "fiber": 0,
+    "ingredients": "Limon, su, şeker",
+    "allergens": "—",
+    "tags": [
+      "vegan",
+      "glutensiz"
+    ],
+    "meal": "Ara öğün",
+    "grams": 200
+  },
+  {
+    "id": 62,
+    "name": "Kola",
+    "category": "İçecek",
+    "unit": "1 kutu",
+    "kcal": 139,
+    "protein": 0,
+    "carbs": 35,
+    "fat": 0,
+    "fiber": 0,
+    "ingredients": "Kola, şekerli gazlı içecek",
+    "allergens": "—",
+    "tags": [
+      "vegan",
+      "glutensiz"
+    ],
+    "meal": "Ara öğün",
+    "grams": 330
+  },
+  {
+    "id": 63,
+    "name": "Şalgam suyu",
+    "category": "İçecek",
+    "unit": "1 bardak",
+    "kcal": 20,
+    "protein": 0,
+    "carbs": 4,
+    "fat": 0,
+    "fiber": 1,
+    "ingredients": "Mor havuç, şalgam, bulgur mayası, tuz",
+    "allergens": "—",
+    "tags": [
+      "vegan",
+      "glutensiz"
+    ],
+    "meal": "Ara öğün",
+    "grams": 200
+  },
+  {
+    "id": 64,
+    "name": "Boza",
+    "category": "İçecek",
+    "unit": "1 bardak",
+    "kcal": 180,
+    "protein": 5,
+    "carbs": 38,
+    "fat": 1,
+    "fiber": 2,
+    "ingredients": "Darı, su, şeker",
+    "allergens": "Gluten içerebilir",
+    "tags": [
+      "vegan"
+    ],
+    "meal": "Ara öğün",
+    "grams": 200
+  },
+  {
+    "id": 65,
+    "name": "Şekersiz soğuk çay",
+    "category": "İçecek",
+    "unit": "1 bardak",
+    "kcal": 5,
+    "protein": 0,
+    "carbs": 1,
+    "fat": 0,
+    "fiber": 0,
+    "ingredients": "Demlenmiş çay, limon",
+    "allergens": "—",
+    "tags": [
+      "vegan",
+      "glutensiz"
+    ],
+    "meal": "Ara öğün",
+    "grams": 250
+  }
+]

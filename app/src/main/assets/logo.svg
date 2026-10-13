@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">Chefit CF</title>
+  <desc id="desc">CF harfleri, ölçüm halkaları ve besin noktalarıyla oluşturulmuş modern gastronomi logosu.</desc>
+  <rect x="3" y="3" width="122" height="122" rx="33" fill="#101e26" stroke="#365149" stroke-width="2"/>
+  <path d="M17 31h94M17 49h94M17 67h94M17 85h94M31 17v94M49 17v94M67 17v94M85 17v94" stroke="#6da88d" stroke-width=".8" opacity=".22"/>
+  <circle cx="64" cy="64" r="43" fill="none" stroke="#96f5bd" stroke-width="2.2" stroke-dasharray="4 6"/>
+  <circle cx="64" cy="64" r="33" fill="none" stroke="#74c8ee" stroke-width="2.5" opacity=".9"/>
+  <text x="64" y="79" text-anchor="middle" font-family="Arial,sans-serif" font-size="47" font-weight="900" letter-spacing="-6" paint-order="stroke" stroke="#101e26" stroke-width="3"><tspan fill="#f5f7f5">C</tspan><tspan fill="#96f5bd">F</tspan></text>
+  <circle cx="96" cy="32" r="4" fill="#ff9c71"/><circle cx="25" cy="91" r="3.5" fill="#74c8ee"/><circle cx="99" cy="91" r="3" fill="#ffcd69"/>
+</svg>

@@ -1,0 +1,1 @@
+GitHub'a yüklemek için bu klasörün içindeki TÜM dosyaları (.github klasörü dahil) yeni bir repository'nin köküne yükleyin. Repository adını chefit-android yapabilirsiniz. Sonra Actions sekmesinden Build Chefit APK çalışmasını açıp Artifacts'tan APK'yı indirin.
