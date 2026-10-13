@@ -1,6 +1,8 @@
 # Chefit Android
 
-Chefit web sitesinin Android uygulaması. Tarifler app/src/main/assets/recipes.json içinde tutulur; arayüz ve kayıt/favori özellikleri uygulama içine gömülüdür ve çevrimdışı çalışır.
+Chefit web sitesinin Android uygulaması. Tarifler app/src/main/assets/recipes.json içinde tutulur; arayüz ve kayıt/favori özellikleri uygulama içine gömülüdür ve çevrimdışı çalışır. Tüm ekranlarda Türkçe ve İngilizce dil seçilebilir.
+
+Sağlık ve alerji filtreleri, tariflerde yazan malzemelere göre eşleşen yemekleri ayırır. Ürün/marka farkını veya çapraz teması doğrulamaz; tıbbi öneri yerine geçmez.
 
 ## APK üretme
 1. Bu klasörün içindeki dosyaları chefit-android adlı yeni GitHub deposunun köküne yükleyin.
